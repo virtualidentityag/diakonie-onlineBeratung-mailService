@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.9.1](https://github.com/CaritasDeutschland/caritas-onlineBeratung-mailService/compare/v1.9.0...v1.9.1) (2025-11-26)
+
+
+### Bug Fixes
+
+* bump actions versions ([7bfc0be](https://github.com/CaritasDeutschland/caritas-onlineBeratung-mailService/commit/7bfc0be6cf147d6ba35fabb9e964ba77ec5fd0c9))
+
 ## 1.9.0 (2024-05-13)
 
 
