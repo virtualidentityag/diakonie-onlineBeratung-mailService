@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.9.2](https://github.com/CaritasDeutschland/caritas-onlineBeratung-mailService/compare/v1.9.1...v1.9.2) (2026-10-23)
+
+
+### Bug Fixes
+
+* update base image to eclipse-temurin:11-jdk-jammy ([0d207da](https://github.com/CaritasDeutschland/caritas-onlineBeratung-mailService/commit/0d207da45f2ce60ca220ee666504a7638d452395))
+
 ### [1.9.1](https://github.com/CaritasDeutschland/caritas-onlineBeratung-mailService/compare/v1.9.0...v1.9.1) (2025-11-26)
 
 
